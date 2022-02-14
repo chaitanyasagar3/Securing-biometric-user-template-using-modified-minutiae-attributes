@@ -1,0 +1,11 @@
+﻿  decidibiltyIndex.cpp
+decidibiltyIndex.obj : error LNK2019: unresolved external symbol _mxIsDouble_800 referenced in function "void __cdecl matread(char const *,class std::vector<double,class std::allocator<double> > &)" (?matread@@YAXPBDAAV?$vector@NV?$allocator@N@std@@@std@@@Z)
+decidibiltyIndex.obj : error LNK2019: unresolved external symbol _mxGetNumberOfElements_800 referenced in function "void __cdecl matread(char const *,class std::vector<double,class std::allocator<double> > &)" (?matread@@YAXPBDAAV?$vector@NV?$allocator@N@std@@@std@@@Z)
+decidibiltyIndex.obj : error LNK2019: unresolved external symbol _mxIsEmpty_800 referenced in function "void __cdecl matread(char const *,class std::vector<double,class std::allocator<double> > &)" (?matread@@YAXPBDAAV?$vector@NV?$allocator@N@std@@@std@@@Z)
+decidibiltyIndex.obj : error LNK2019: unresolved external symbol _mxGetPr_800 referenced in function "void __cdecl matread(char const *,class std::vector<double,class std::allocator<double> > &)" (?matread@@YAXPBDAAV?$vector@NV?$allocator@N@std@@@std@@@Z)
+decidibiltyIndex.obj : error LNK2019: unresolved external symbol _mxDestroyArray_800 referenced in function "void __cdecl matread(char const *,class std::vector<double,class std::allocator<double> > &)" (?matread@@YAXPBDAAV?$vector@NV?$allocator@N@std@@@std@@@Z)
+decidibiltyIndex.obj : error LNK2019: unresolved external symbol _matOpen_800 referenced in function "void __cdecl matread(char const *,class std::vector<double,class std::allocator<double> > &)" (?matread@@YAXPBDAAV?$vector@NV?$allocator@N@std@@@std@@@Z)
+decidibiltyIndex.obj : error LNK2019: unresolved external symbol _matClose_800 referenced in function "void __cdecl matread(char const *,class std::vector<double,class std::allocator<double> > &)" (?matread@@YAXPBDAAV?$vector@NV?$allocator@N@std@@@std@@@Z)
+decidibiltyIndex.obj : error LNK2019: unresolved external symbol _matGetVariable_800 referenced in function "void __cdecl matread(char const *,class std::vector<double,class std::allocator<double> > &)" (?matread@@YAXPBDAAV?$vector@NV?$allocator@N@std@@@std@@@Z)
+libmat.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+C:\Users\Chaitanya\Documents\Internship\C++\decidibiltyIndex\Debug\decidibiltyIndex.exe : fatal error LNK1120: 8 unresolved externals
